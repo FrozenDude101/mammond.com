@@ -1,0 +1,3 @@
+[submodule "sitebuilder"]
+	path = sitebuilder
+	url = https://github.com/FrozenDude101/sitebuilder
