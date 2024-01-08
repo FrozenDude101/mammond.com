@@ -1,0 +1,2 @@
+setuptools==69.0.3
+-e git+https://github.com/FrozenDude101/sitebuilder.git#egg=sitebuilder
