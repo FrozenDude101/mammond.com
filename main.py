@@ -4,7 +4,7 @@ import sitebuilder
 
 
 def main() -> None:
-    sB = sitebuilder.SiteBuilder("src", "build")
+    sB = sitebuilder.SiteBuilder("source", "build")
     sB.build()
 
 if __name__ == "__main__":
