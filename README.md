@@ -12,10 +12,8 @@ The easiest way to work on this site locally is by using a virtual environment a
    * `.venv\Scripts\activate` on Windows
 5. `pip install -r requirements.txt`
 ## Usage
-To build and view the site locally, run
-```
-python main.py && python -m http.server -d build
-```
+To build and view the site locally, run:\
+`python main.py && python -m http.server -d build`\
 Then go to [localhost](http://localhost:8000).
 ## Contributing
 Contributions are welcome, mainly to the [sitebuilder](https://github.com/FrozenDude101/sitebuilder) itself, but also to any of the content on the site.
