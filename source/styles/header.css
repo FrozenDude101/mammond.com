@@ -22,12 +22,12 @@
 
 .links {
     flex-grow: 1;
-    gap: 0;
+    padding: 0 1rem;
     font-size: x-large;
     white-space: 0;
 }
 .links > * {
-    padding: 0rem 2rem;
+    padding: 0 1rem;
 }
 .links > *:hover {
     color: orange;
