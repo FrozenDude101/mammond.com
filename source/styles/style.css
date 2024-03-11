@@ -1,0 +1,11 @@
+:root, * {
+    font-family: monospace;
+    text-decoration: none;
+    color: #FFF;
+    transition-duration: 0.25s;
+}
+
+body {
+    margin: 0;
+    background-color: #222;
+}
