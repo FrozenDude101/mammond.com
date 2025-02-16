@@ -1,0 +1,8 @@
+# Environment
+.vscode/
+
+# NPM
+node_modules/
+
+# Build Output
+build/scripts/

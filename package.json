@@ -1,0 +1,11 @@
+{
+  "name": "mammond.com",
+  "version": "0.2.0",
+  "scripts": {
+    "clean": "rm -rf build/scripts/*",
+    "build": "tsc -p ./source"
+  },
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}

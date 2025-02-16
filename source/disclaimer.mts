@@ -1,0 +1,1 @@
+alert("This site is under construction. Check back later to see the progress! :)");
